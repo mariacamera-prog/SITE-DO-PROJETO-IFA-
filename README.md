@@ -2,7 +2,7 @@
 ### DISCIPLINA FÍSICA E TECNOCIÊNCIA - IFA 2º SEMESTRE 2026
 
 ## Descrição
-Este é o site do Projeto Integrador da disciplina IFA-2026.
+Este é o Site do Projeto Integrador da Disciplina IFA-2026.
 
 **Tema: ACESSIBILIDADE DA VISÃO**
 
@@ -34,10 +34,9 @@ Promover a inclusão, a autonomia e a permanência acadêmica de estudantes com 
 2. Ou baixe os arquivos e abra o `index.html`
 
 ## Autores
-- MARIA LUCIA GEITTNES CAMERA
-- MARIA LUCIAALIN 
+- MARIA LUCIA GEITTNES CAMERA 
 - ALIN TREIB
 - DAVI GNOATO
-- Alunos do 2A
+- Alunos do (2A)
 
-Colégio Estadual Presidente Vargas-Pinhal de São Bento-PR2
+Colégio Estadual Presidente Vargas-Pinhal de São Bento-PR
