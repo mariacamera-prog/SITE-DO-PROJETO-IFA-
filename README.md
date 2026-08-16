@@ -36,7 +36,7 @@ Promover a inclusão, a autonomia e a permanência acadêmica de estudantes com 
 ## Autores
 - MARIA LUCIA GEITTNES CAMERA 
 - ALIN TREIB
-- DAVI GNOATO
+- DAVI GHNOATO
 - Alunos do (2A)
 
 Colégio Estadual Presidente Vargas-Pinhal de São Bento-PR
